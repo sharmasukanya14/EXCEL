@@ -1,0 +1,4 @@
+1.Find total number of transactions done on credit
+2.Find the average sales done in each city
+3.Total sales done on water sports equipments
+4.Number of all sales done in last two months of 2015th year.

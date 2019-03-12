@@ -1,0 +1,25 @@
+BookSales:
+1.Sort : Computers,Fiction,Cookery,Classics
+2.Books sold b/w 30-60
+3.Books which have " the " in the name
+
+DivisionSales:
+1.Division wise data to be displayed
+2.Total sales per item for each division
+3.Total sales per quarter for all divisions
+
+FirstQtrSales:
+1.Jan sales which have value less than or equal to 6000{red}
+2.Color green for sales representative for sales of >=15000
+3.Aggregation functions-average,min,max,count for feb and march sales.
+
+ProductDetails:
+1.Products belonging to the same categoryid, to be displayed together.
+2.Add a new column, item available or reorder needed based on quantity available and reorder level.
+
+SalaryDetails:
+1.Compute DA,HRA,Conveyance,PF
+2.Tax{0-2000:0%,2001-3500:5%,3501-5000:10%} on basic salary
+3.Total salary=Basic+DA+HRA-Conveyance-PF-Tax
+
+

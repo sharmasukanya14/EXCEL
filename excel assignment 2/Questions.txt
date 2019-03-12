@@ -1,0 +1,22 @@
+Percentage.xlsx
+1.Total Price calculation
+2.Total Price(Inclusive of Tax) 12% tax
+3.Data validation on Remarks, length!>20 characters
+
+PaulFurnishers_Revenue.xlsx
+1.Pivot Table, filter based on year
+2.Pivot Table, average revenue done for every month
+3.Generate pivot chart
+
+Sparklines.xlsx
+1.Avg sales done in each month for each product(Table 1)
+2.Generate chart of that data(Table 1)
+3.Draw data fluctuations wrt every month, for each product, inside the next cell(Table 2)
+4.Show the sales trend for Multi door fridge(Table 3)
+
+ScenarioTurbin.xlsx
+1.Scenario 1 : CP for Normal Generator 2000, SP for Heavy Generator 8000,Quantities sold for Power-Station Generator 10 and Quantity of Silent Generator 10
+2.To get revenue of 55000, alteration needed in quantity of heavy generator
+3.To generate revenue of 120000, what should be the quantities of different types of generators
+
+
